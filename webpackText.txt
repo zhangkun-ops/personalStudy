@@ -21,3 +21,4 @@ css-loader
 
 plugin
 uglifyjs-webpack-plugin // plugin插件  减少项目体积
+123
