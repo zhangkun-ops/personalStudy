@@ -1,0 +1,1 @@
+(()=>{"use strict";document.write("入口 is loaded"),console.log("moduleLog is loaded")})();
